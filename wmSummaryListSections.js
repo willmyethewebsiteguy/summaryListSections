@@ -1,5 +1,5 @@
 /**
-* Testing
+
 * Ultimate List Sections
 * Copyright Will-Myers.com
 */
