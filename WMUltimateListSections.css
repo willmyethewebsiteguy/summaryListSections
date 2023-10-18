@@ -1,0 +1,11 @@
+/* =========
+  Image Tabs
+  This Code is Licensed by Will-Myers.com
+========== */
+
+.page-section[data-mapping-status="mapping"] .user-items-list {
+  opacity: 0 !important;
+}
+.page-section[data-mapping-status="complete"] .user-items-list {
+  opacity: 1 !important;
+}
